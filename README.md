@@ -135,6 +135,7 @@ Sensors: Place sensors and cameras for 360-degree visibility and obstacle detect
 Manipulators: Position manipulators to maximize reach and efficiency.
 Power Supply: Locate the battery to maintain balance and allow easy access for maintenance.
 As this was our first robot project, we aimed to adhere closely to these guidelines to achieve optimal performance and reliability.
+
 ![image](https://github.com/user-attachments/assets/2d87c840-5ed5-41c1-b69e-8d2a1393f114)
 
 ## mobile app:
